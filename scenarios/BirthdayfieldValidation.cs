@@ -2,7 +2,6 @@
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.IE;
 using Whataburger_Dotcom_EmailSignup.pages;
 using Whataburger_Dotcom_EmailSignup.datatable;
 using Whataburger_Dotcom_EmailSignup.constants;
